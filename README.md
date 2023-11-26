@@ -1,6 +1,6 @@
 # ww-lagos-tour
 
-Welcome to WW Lagos Tour, your go-to web application for exploring the vibrant city of Lagos, Nigeria! Whether you're a seasoned traveler or a first-time visitor, this app is designed to enhance your tourism experience in Lagos. Features User-Friendly Interface: Our intuitive and user-friendly design ensures that everyone, regardless of technical expertise, can easily navigate and make the most out of their Lagos adventure.
+Welcome to WW Lagos Tour, your go-to web application for exploring the vibrant city of Lagos, Nigeria! Whether you're a seasoned traveler or a first-time visitor, this page is designed to enhance your tourism experience in Lagos. Features User-Friendly Interface: Our intuitive and user-friendly design ensures that everyone, regardless of technical expertise, can easily navigate and make the most out of their Lagos adventure.
 
 Comprehensive Tour Information: Get detailed information about popular tourist attractions, historical sites, cultural events, and more. WW Lagos Tour is your digital guidebook to the heart of Lagos.
 
